@@ -57,9 +57,9 @@ Make sure you have the following installed on your machine:
    cd api
    touch .env
    MONGO_URL=your_mongodb_connection_url # insert this line to the .env file
-   PASS_SEC=your_password_secure
-   JWT_SEC=your_JWT_secret
-   STRIPE_KEY=your_secret_stripe_key
+   PASS_SEC=your_password_secure # insert this line to the .env file
+   JWT_SEC=your_JWT_secret # insert this line to the .env file
+   STRIPE_KEY=your_secret_stripe_key # insert this line to the .env file
 ```
 ```bash
    cd client
