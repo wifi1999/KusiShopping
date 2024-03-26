@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 ```bash
    cd client
    touch .env
-   REACT_APP_STRIPE=your_public_stripe_key
+   REACT_APP_STRIPE=your_public_stripe_key # insert this line to the .env file
 ```
 
 4. Starting the Application:
